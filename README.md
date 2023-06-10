@@ -73,4 +73,3 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ---
 
-Feel free to customize and enhance the above information based on your project's specific details.
